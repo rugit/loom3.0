@@ -15,11 +15,11 @@ const AboutUsContent: React.FC = () => {
                   What is <b>Looms 3.0</b>?
                 </h2>
                 <p>
-                  Looms 3.0 is a three-day global conclave themed 'Empowering
-                  Traditional Industries with AI & Digital Intervention',
-                  bringing together entrepreneurs, policymakers, academicians,
-                  and artisans to explore how technology can revitalize
-                  traditional sectors.
+                  Looms 3.0 is a three-day global conclave themed
+                  &apos;Empowering Traditional Industries with AI & Digital
+                  Intervention&apos;, bringing together entrepreneurs,
+                  policymakers, academicians, and artisans to explore how
+                  technology can revitalize traditional sectors.
                 </p>
                 <p>
                   With participants from across ASEAN, Africa, and Latin
