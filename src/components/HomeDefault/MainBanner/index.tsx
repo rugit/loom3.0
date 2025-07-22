@@ -26,12 +26,12 @@ const MainBanner: React.FC = () => {
           <div className="d-table-cell">
             <div className="container">
               <div className="main-banner-content">
-                <p>
-                  <span>Looms 3.0</span> - A Global Convergence
-                </p>
                 <h1>
-                  Empowering Traditional Industries with{" "}
-                  <span>AI & Digital</span> <br /> Innovation
+                  {" "}
+                  <span>AI & Digital</span> Innovation Empowering Traditional
+                  Industries
+                  {/* Empowering Traditional Industries with{" "} */}
+                  {/* <span>AI & Digital</span> Innovation */}
                 </h1>
                 <p className="subheadline">
                   Join us for Looms 3.0 — a global convergence of tradition,
