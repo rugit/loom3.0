@@ -31,7 +31,7 @@ const MainBanner: React.FC = () => {
                   <span>AI & Digital</span> Innovation Empowering Traditional
                   Industries
                   {/* Empowering Traditional Industries with{" "} */}
-                  {/* <span>AI & Digital</span> Innovation */}
+                  <span>AI & Digital</span> Innovation
                 </h1>
                 <p className="subheadline">
                   Join us for Looms 3.0 — a global convergence of tradition,
@@ -40,10 +40,10 @@ const MainBanner: React.FC = () => {
 
                 <ul>
                   <li>
-                    <i className="icofont-compass"></i> 📍 Vivanta, Guwahati
+                    <i className="icofont-compass"></i> Vivanta, Guwahati
                   </li>
                   <li>
-                    <i className="icofont-calendar"></i> 🗓 26–28 August 2025
+                    <i className="icofont-calendar"></i> 26–28 August 2025
                   </li>
                 </ul>
 

@@ -35,22 +35,17 @@ const EventSchedules: React.FC = () => {
                 <TabList>
                   <Tab>
                     First Day
-                    <span>4 April 2024</span>
+                    <span>26 August 2025</span>
                   </Tab>
 
                   <Tab>
                     Second Day
-                    <span>5 April 2024</span>
+                    <span>27 August 2025</span>
                   </Tab>
 
                   <Tab>
                     Third Day
-                    <span>6 April 2024</span>
-                  </Tab>
-
-                  <Tab>
-                    Fourth Day
-                    <span>7 April 2024</span>
+                    <span>28 August 2025</span>
                   </Tab>
                 </TabList>
 
@@ -64,10 +59,6 @@ const EventSchedules: React.FC = () => {
 
                 <TabPanel>
                   <ThirdDay />
-                </TabPanel>
-
-                <TabPanel>
-                  <FourthDay />
                 </TabPanel>
               </Tabs>
             </div>
