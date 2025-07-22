@@ -30,8 +30,6 @@ const MainBanner: React.FC = () => {
                   {" "}
                   <span>AI & Digital</span> Innovation Empowering Traditional
                   Industries
-                  {/* Empowering Traditional Industries with{" "} */}
-                  <span>AI & Digital</span> Innovation
                 </h1>
                 <p className="subheadline">
                   Join us for Looms 3.0 — a global convergence of tradition,
