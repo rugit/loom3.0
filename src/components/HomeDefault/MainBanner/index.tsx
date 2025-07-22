@@ -19,7 +19,7 @@ const MainBanner: React.FC = () => {
       <div
         className="main-banner"
         style={{
-          backgroundImage: `url(/images/main-bg2.jpg)`,
+          backgroundImage: `url(/images/back.jpg)`,
         }}
       >
         <div className="d-table">
