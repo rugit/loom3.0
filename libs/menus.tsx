@@ -15,11 +15,10 @@ export const menus = [
     label: "Speakers",
     link: "/speakers/",
   },
-  {
-    label: "Pricing",
-    link: "/pricing/",
-  },
-
+  // {
+  //   label: "Pricing",
+  //   link: "/pricing/",
+  // },
   {
     label: "Partners",
     link: "/sponsors/",

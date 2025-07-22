@@ -29,7 +29,7 @@ export default function Home() {
 
       <FunFact />
 
-      <Pricing />
+      {/* <Pricing /> */}
 
       <Partner />
 
