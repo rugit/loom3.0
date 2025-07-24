@@ -107,17 +107,6 @@ const Footer: React.FC = () => {
                     <Link href="/terms-conditions">Terms & Conditions</Link>
                   </li>
                 </ul>
-
-                <p>
-                  © Evnia is Proudly Owned by{" "}
-                  <a
-                    href="https://hibootstrap.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    HiBootstrap
-                  </a>
-                </p>
               </div>
             </div>
           </div>

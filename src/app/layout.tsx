@@ -1,8 +1,8 @@
 import "../../styles/bootstrap.min.css";
 import "../../styles/icofont.min.css";
 import "../../styles/animate.min.css";
-import 'react-accessible-accordion/dist/fancy-example.css';
-import 'react-tabs/style/react-tabs.css';
+import "react-accessible-accordion/dist/fancy-example.css";
+import "react-tabs/style/react-tabs.css";
 import "swiper/css";
 import "swiper/css/bundle";
 
@@ -21,8 +21,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Evnia - React Next.js Event Conference & Meetup Template",
-  description: "React Next.js Event Conference & Meetup Template",
+  title: "Looms 3.0",
+  description: "Looms 3.0",
 };
 
 export default function RootLayout({
