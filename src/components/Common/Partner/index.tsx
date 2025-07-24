@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react"; 
+import React from "react";
 import PlatinumSponsors from "./PlatinumSponsors";
 import GoldSponsors from "./GoldSponsors";
 
@@ -12,7 +12,7 @@ const Partner: React.FC = () => {
           <div className="section-title">
             <span>Check Who Makes This Event Possible!</span>
             <h2>
-              Our Event <b>Sponsors</b>
+              Our <b>Partners</b>
             </h2>
 
             <a href="#" className="btn btn-primary">

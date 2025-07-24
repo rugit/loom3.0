@@ -21,11 +21,11 @@ export default function Home() {
 
       <AboutUsContent />
 
-      <WhyUs />
+      {/* <WhyUs /> */}
 
-      <Speakers />
+      {/* <Speakers /> */}
 
-      <EventSchedules />
+      {/* <EventSchedules /> */}
 
       <FunFact />
 

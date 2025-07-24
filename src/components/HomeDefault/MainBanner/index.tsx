@@ -28,12 +28,12 @@ const MainBanner: React.FC = () => {
               <div className="main-banner-content">
                 <h1>
                   {" "}
-                  <span>AI & Digital</span> Innovation Empowering Traditional
-                  Industries
+                  Empowering Traditional Industries with
+                  <span>AI & Digital</span> Integration
                 </h1>
                 <p className="subheadline">
-                  Join us for Looms 3.0 — a global convergence of tradition,
-                  technology, and transformation.
+                  Join us for Looms 3.0 - Digital Interventions for Sustainable
+                  Growth
                 </p>
 
                 <ul>
